@@ -1,0 +1,5 @@
+# OO files
+*.idx
+*.tmp
+*.lock
+Content/.metadata
